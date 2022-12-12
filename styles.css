@@ -1,2 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
 
-/* Your CSS Code here. */
+body {
+    margin: 5px;
+    padding: 10px;
+}
+
+.profilepic {
+    width: 120px;
+    height: 150px;
+    margin-left: 40%;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
